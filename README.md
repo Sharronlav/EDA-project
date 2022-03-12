@@ -11,7 +11,8 @@ Our goal is to make use of a variety of approaches (mostly graphical) to maximiz
 
 Mainly, to extract important interactions between the profiles variables and prefences, detect outliers, and test underlying assumptions whithin the users.
 
-In addition, we aim to preform text analysis to determine optimal pairing (maximun number of matches).
+In addition, we aim to preform text analysis to determine optimal pairing (maximun number of matches), visualized by wordcloud and Scattertext infographic.
+
 ## 🔧	 Tools and Methods
 
  - [NumPy](https://numpy.org/)
