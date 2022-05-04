@@ -17,7 +17,7 @@ In addition, we aim to preform text analysis to determine optimal pairing (maxim
 
  - [NumPy](https://numpy.org/)
  - [Pandas](https://pandas.pydata.org/)
- - [Spacy](https://spacy.io/)
+ - [spaCy](https://spacy.io/)
  - [Plotly](https://plotly.com/)
  - [Seaborn](https://seaborn.pydata.org/)
 
@@ -31,7 +31,7 @@ In this dataset, there are 60k records containing structured information such as
 
 ## ⚙️ Setup
 You must download the dataset (it is larger then 25M and can't be uploaded to the repository).
-Then move the dataset and the notebook to your google drive, and you're good to go! 
+Then copy the dataset and the notebook to your google drive, and you're good to go! 
 ## 🧑‍🤝‍🧑 Authors
 
 - [Lara Ben Amar](https://github.com/larushba)
